@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MazeMind.Core", "MazeMind.Core\MazeMind.Core.csproj", "{BE2E792B-1988-473E-90A3-D3076EFF7457}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MazeMind.Desktop", "MazeMind.Desktop\MazeMind.Desktop.csproj", "{30C623F4-3E3A-48A2-9DD9-3EB0E50D5A70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Verification", "Verification\Verification.csproj", "{F3C67A51-A37C-4DC2-9629-AF7F1EA821A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE2E792B-1988-473E-90A3-D3076EFF7457}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE2E792B-1988-473E-90A3-D3076EFF7457}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE2E792B-1988-473E-90A3-D3076EFF7457}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE2E792B-1988-473E-90A3-D3076EFF7457}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30C623F4-3E3A-48A2-9DD9-3EB0E50D5A70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30C623F4-3E3A-48A2-9DD9-3EB0E50D5A70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30C623F4-3E3A-48A2-9DD9-3EB0E50D5A70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30C623F4-3E3A-48A2-9DD9-3EB0E50D5A70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3C67A51-A37C-4DC2-9629-AF7F1EA821A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3C67A51-A37C-4DC2-9629-AF7F1EA821A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3C67A51-A37C-4DC2-9629-AF7F1EA821A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3C67A51-A37C-4DC2-9629-AF7F1EA821A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
